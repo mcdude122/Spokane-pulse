@@ -1,0 +1,14 @@
+<svg viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark background -->
+  <rect width="192" height="192" fill="#04091a"/>
+  
+  <!-- Outer rounded square with glass effect -->
+  <rect x="28" y="28" width="136" height="136" rx="32" fill="#1a2d4d" opacity="0.6"/>
+  <rect x="28" y="28" width="136" height="136" rx="32" fill="none" stroke="#7dd3fc" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Highlight shine on top-left -->
+  <ellipse cx="70" cy="70" rx="35" ry="35" fill="#7dd3fc" opacity="0.15"/>
+  
+  <!-- Center S letter -->
+  <text x="96" y="128" font-size="80" font-weight="700" fill="#7dd3fc" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">S</text>
+</svg>

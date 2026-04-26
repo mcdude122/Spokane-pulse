@@ -1,0 +1,25 @@
+{
+  "name": "Spokane Daily",
+  "short_name": "Spokane Daily",
+  "description": "Local news, summarized - no clickbait",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#04091a",
+  "theme_color": "#7dd3fc",
+  "icons": [
+    {
+      "src": "/icon.svg?v=2",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg?v=2",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
